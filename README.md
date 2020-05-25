@@ -1,1 +1,1 @@
-# eJournal
+# Akudo
