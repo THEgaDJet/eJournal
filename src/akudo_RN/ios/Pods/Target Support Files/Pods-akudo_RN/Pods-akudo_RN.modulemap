@@ -1,0 +1,6 @@
+module Pods_akudo_RN {
+  umbrella header "Pods-akudo_RN-umbrella.h"
+
+  export *
+  module * { export * }
+}

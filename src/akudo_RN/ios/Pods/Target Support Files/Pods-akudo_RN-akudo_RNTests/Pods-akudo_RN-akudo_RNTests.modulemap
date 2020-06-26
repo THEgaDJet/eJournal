@@ -1,0 +1,6 @@
+module Pods_akudo_RN_akudo_RNTests {
+  umbrella header "Pods-akudo_RN-akudo_RNTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

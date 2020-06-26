@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/akudo_RN.iml" filepath="$PROJECT_DIR$/akudo_RN.iml" group="akudo_RN" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="akudo_RN/app" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/@react-native-firebase/app/android/react-native-firebase_app.iml" filepath="$PROJECT_DIR$/../node_modules/@react-native-firebase/app/android/react-native-firebase_app.iml" group="akudo_RN/react-native-firebase_app" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/@react-native-firebase/auth/android/react-native-firebase_auth.iml" filepath="$PROJECT_DIR$/../node_modules/@react-native-firebase/auth/android/react-native-firebase_auth.iml" group="akudo_RN/react-native-firebase_auth" />
+    </modules>
+  </component>
+</project>
